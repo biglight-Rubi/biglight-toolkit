@@ -6,7 +6,7 @@ Create a file and drop all your assets, even the images.
 To convert .gifs to .mp4:
 - Open the terminal
 - Go to the folder where you have stored the assets
-- Run _ bash convert.sh _
+- Run _bash convert.sh_
 
 It will create an output directory with all the converted files.
 
